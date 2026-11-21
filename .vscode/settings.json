@@ -1,7 +1,3 @@
 {
   "cSpell.words": ["CLS", "FCP", "FID", "LCP", "TTFB", "uuidv"],
-  "sonarlint.connectedMode.project": {
-    "connectionId": "dannydorito",
-    "projectKey": "DannyDorito_j-e2e-notes"
-  }
 }

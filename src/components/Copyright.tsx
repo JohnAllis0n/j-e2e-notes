@@ -17,7 +17,7 @@ const Copyright = () => {
         {','}&nbsp;
         <Link
           color='inherit'
-          href='https://github.com/DannyDorito/j-e2e-notes'
+          href='https://github.com/JohnAllis0n/j-e2e-notes'
           target='_blank'
           rel='noopener noreferrer'
         >
